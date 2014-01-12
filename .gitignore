@@ -21,3 +21,7 @@ tools/
 weltmeister.html
 build/
 _site/
+
+spec/
+res/
+game_maker/
