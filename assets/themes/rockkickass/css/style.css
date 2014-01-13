@@ -4,7 +4,7 @@ body {
 }
 #container {
     width: 770px;
-    margin: 70px auto;
+    margin: 0px auto 70px;
     overflow: hidden;
 }
 
@@ -15,8 +15,12 @@ body {
 }
 
 #header {
-    width: 980px;
+    width: 645px;
     margin: 0 auto;
+}
+
+#header img {
+    width: 645px;
 }
 
 p.description {
