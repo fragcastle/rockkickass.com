@@ -1,3 +1,14 @@
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+
 lib-cov
 *.seed
 *.log
@@ -21,3 +32,7 @@ tools/
 weltmeister.html
 build/
 _site/
+
+spec/
+res/
+game_maker/
