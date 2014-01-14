@@ -8,6 +8,16 @@ body {
     overflow: hidden;
 }
 
+ul {
+    list-style: initial;
+    margin-left: 20px;
+}
+
+ul li {
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
 .post {
     border-bottom: 1px solid #333;
     padding-bottom: 35px;
