@@ -6,7 +6,7 @@ author: john
 title: Rock Kickass submitted to Boston FIG 2014!
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/7a75ohTaMbs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/7a75ohTaMbs" frameborder="0" allowfullscreen="true"></iframe>
 <br />
 <br />
 We've submitted Rock Kickass to The 2014 [Boston Festival of Indie Games](http://bostonfig.com/ "The Boston Festival of Indie Games") (Boston FIG)!
